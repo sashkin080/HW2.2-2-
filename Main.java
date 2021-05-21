@@ -4,7 +4,7 @@ public class Main {
 
         double height = 175;
 
-        double indexMB = servise.calculate (height);
+        double indexMB = servise.calculate(height);
 
         System.out.println(indexMB);
 
